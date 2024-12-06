@@ -154,17 +154,3 @@ Class Counts: {'Slender': 10, 'Medium': 8, 'Bold': 7}
 
 ---
 
-#### Future Enhancements
-
-1. Add functionality for assessing chemical properties, like moisture and chalkiness.
-2. Expand compatibility to include a wider variety of grains.
-3. Create a user-friendly graphical interface to make the system accessible to non-technical users.
-
----
-
-#### GitHub Repository
-[GitHub Link](#) *(Add your GitHub repository link here.)*
-
----
-
-Feel free to reach out with questions or suggestions!
