@@ -86,10 +86,9 @@ Below are examples of the system's visual outputs at different processing stages
 3. **Classified as Medium**  
 ![image](https://github.com/user-attachments/assets/1ecbbce3-c3a2-46d5-9fd3-3fe8917990b4)
 
-4. *Computer Vision techniques used*
+3. **Classified as Medium**  
    ![image](https://github.com/user-attachments/assets/1f6a9971-05ec-432a-89e6-c58c9c8021ff)
 
----
 
 #### Process Breakdown
 
