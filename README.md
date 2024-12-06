@@ -75,14 +75,19 @@ image_path = "/content/Rice_Image_Dataset/Ipsala/Ipsala (1).jpg"
 
 Below are examples of the system's visual outputs at different processing stages:
 
-1. **Original Image**  
-   ![Original Image](example_original_image.png)
+1. **Classified as Bold**  
+![image](https://github.com/user-attachments/assets/5a2df565-df9a-4cae-bad0-44d8f2e0a2dd)
 
-2. **Binary Image**  
-   ![Binary Image](example_binary_image.png)
 
-3. **Edge Detection**  
-   ![Edge Detected Image](example_edge_image.png)
+2. **Classified as Round**  
+![image](https://github.com/user-attachments/assets/dc0814b7-9e79-4695-ac8a-e73485fdb292)
+
+
+3. **Classified as Medium**  
+![image](https://github.com/user-attachments/assets/1ecbbce3-c3a2-46d5-9fd3-3fe8917990b4)
+
+4. *Computer Vision techniques used*
+   ![image](https://github.com/user-attachments/assets/1f6a9971-05ec-432a-89e6-c58c9c8021ff)
 
 ---
 
